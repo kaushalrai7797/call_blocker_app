@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

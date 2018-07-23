@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

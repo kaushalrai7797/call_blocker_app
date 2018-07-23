@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:5:22-72
+uses-permission#android.permission.MODIFY_PHONE_STATE
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:6:22-74
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:7:22-66
+application
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/mukul/.android/build-cache/13a9347c12bb76ba75f6df1e328ab82469c4bf9c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mukul/.android/build-cache/90eeccd9d79e41003324f5387e948614dc565d98/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mukul/.android/build-cache/a1f8de08bfa58c13a2de008118ec7842e0f71b54/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mukul/.android/build-cache/50afb1d5f4ec285579b55b9c854a435c3be358ea/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mukul/.android/build-cache/e93a13dd6413bdfa27530cc9ea8e7459ce83c217/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mukul/.android/build-cache/66ded931d619a6bc70c7327f41ef018bc4f0f3e3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mukul/.android/build-cache/1527e1e0a2c0d170b0b4fcf3af154263e4075b6b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/mukul/.android/build-cache/916d186786b9064c982e7bdf0c85c7af5209744a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mukul/.android/build-cache/4839f79560355db677aa0e98f631db9fe0867a35/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.dslab.project.callblockerlite.MainActivity
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:20:27-74
+receiver#com.dslab.project.callblockerlite.Receiver
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:23:9-27:20
+	android:exported
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:23:44-67
+	android:name
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:23:19-43
+intent-filter#android.intent.action.PHONE_STATE
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:24:13-26:29
+action#android.intent.action.PHONE_STATE
+ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml:25:25-73
+uses-sdk
+INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/mukul/.android/build-cache/13a9347c12bb76ba75f6df1e328ab82469c4bf9c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mukul/.android/build-cache/90eeccd9d79e41003324f5387e948614dc565d98/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mukul/.android/build-cache/a1f8de08bfa58c13a2de008118ec7842e0f71b54/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mukul/.android/build-cache/50afb1d5f4ec285579b55b9c854a435c3be358ea/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mukul/.android/build-cache/e93a13dd6413bdfa27530cc9ea8e7459ce83c217/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mukul/.android/build-cache/66ded931d619a6bc70c7327f41ef018bc4f0f3e3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mukul/.android/build-cache/1527e1e0a2c0d170b0b4fcf3af154263e4075b6b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/mukul/.android/build-cache/916d186786b9064c982e7bdf0c85c7af5209744a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/mukul/.android/build-cache/4839f79560355db677aa0e98f631db9fe0867a35/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mukul/AndroidStudioProjects/CallBlockerLite/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/mukul/.android/build-cache/13a9347c12bb76ba75f6df1e328ab82469c4bf9c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mukul/.android/build-cache/90eeccd9d79e41003324f5387e948614dc565d98/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mukul/.android/build-cache/a1f8de08bfa58c13a2de008118ec7842e0f71b54/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mukul/.android/build-cache/50afb1d5f4ec285579b55b9c854a435c3be358ea/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mukul/.android/build-cache/e93a13dd6413bdfa27530cc9ea8e7459ce83c217/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mukul/.android/build-cache/66ded931d619a6bc70c7327f41ef018bc4f0f3e3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mukul/.android/build-cache/1527e1e0a2c0d170b0b4fcf3af154263e4075b6b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/mukul/.android/build-cache/916d186786b9064c982e7bdf0c85c7af5209744a/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/AndroidManifest.xml:26:9-47

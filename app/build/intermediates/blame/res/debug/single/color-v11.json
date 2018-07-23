@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

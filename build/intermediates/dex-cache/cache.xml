@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/1527e1e0a2c0d170b0b4fcf3af154263e4075b6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba37205ea9c69dba1af099d3c7b46ea8e9f4abda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/66ded931d619a6bc70c7327f41ef018bc4f0f3e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a7695be54021c7d3d60c8a221b63ad0c6bb82f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/e93a13dd6413bdfa27530cc9ea8e7459ce83c217/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ee0c3ba573fd06d568e0eaa5bc41885b208cf84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/13a9347c12bb76ba75f6df1e328ab82469c4bf9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3d124d0cf667dd178404c67695a8978a8da52632/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_378cba3475b620c51abe06d50076b532e66526f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aba07d42cba8c9ce57e7dde9363616a5e89a620d">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81fc09ffebb6cd3d95c4559bf9298d142f26c282/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/90eeccd9d79e41003324f5387e948614dc565d98/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c53de2c2ddd3ce059702b9e924693ea5a07bfa5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/7c8f394fe28c1e7ad49e8545baeacf123ab7b424/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91f55b91803f157cf47fc2d79c92dc6e44e78e14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_75ee33f001e1de5d67a6173c92c9153a7e8096e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/916d186786b9064c982e7bdf0c85c7af5209744a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e41dacbb8363d1eeff3588a1777ef6308fd2b94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/50afb1d5f4ec285579b55b9c854a435c3be358ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50e4af7677c3dff16d8498310586403bc26174c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mukul/.android/build-cache/a1f8de08bfa58c13a2de008118ec7842e0f71b54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3a42702952752291450764f88aed2db799e41b0/classes.dex" />
+    </item>
+
+</items>

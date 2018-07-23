@@ -1,0 +1,7 @@
+#Fri Apr 14 18:48:38 IST 2017
+base.0=/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_378cba3475b620c51abe06d50076b532e66526f8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81fc09ffebb6cd3d95c4559bf9298d142f26c282/classes.dex
+base.1=/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_81fc09ffebb6cd3d95c4559bf9298d142f26c282
+file.0=/home/mukul/AndroidStudioProjects/CallBlockerLite/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_378cba3475b620c51abe06d50076b532e66526f8/classes.dex
